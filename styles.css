@@ -342,4 +342,10 @@
   cursor: wait;
 }
 
+#ai-notification {
+  transition: opacity 0.8s ease;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 1.2em;
+}
+
 
